@@ -1,0 +1,6 @@
+{
+  "name": "মুরগী দাঁড়ি ও ওজন খাতা - Poultry Smart Scale",
+  "description": "পোল্ট্রি খামারের মুরগী বিক্রির স্বয়ংক্রিয় ভয়েস দাঁড়ি হিসাব, খাঁচা ট্র্যাকিং ও ক্লাউড মেমো",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
